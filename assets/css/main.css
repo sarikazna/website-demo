@@ -163,8 +163,9 @@ input, select, textarea {
 	}
 
 	.small-text {
-		font-size: 12pt; /* Adjust the font size as desired */
-		line-height: 1.25em; /* Adjust the line height as desired */
+		font-size: 11pt; 
+		line-height: 1.5em;
+		color: #cccccc;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
